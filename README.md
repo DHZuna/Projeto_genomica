@@ -30,12 +30,12 @@ https://newsapi.org/
 * Quantidade de notícias por fonte e autor;
 * Quantidade de aparições de 3 palavras chaves por ano, mês e dia de publicação
 
-# Particularidades do Projeto
+# Particularidades do Projeto 
 
 ## Variáveis de Ambiente
 Na raíz do projeto existe deve ser criado na pasta *env* um arquivo chamado *env_variables.py*. Neste arquivo devem ser adicionadas as variáveis e valores a seguir:
 
-* *apikey*: Chave deve ser criada no portal [News API](https://newsapi.org)
+* *apikey*: Chave deve ser criada no portal [News API](https://newsapi.org).
 
 ## Ambiente de Desenvolvimento
 O projeto em si é modularizado e cada módulo armazena as funções específicas daquela aplicação. Para testes específicos de funções, é utilizado o notebook do diretório *tests*.
